@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve Defendre
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a computer science student  
+- 🌱 I’m currently learning Java & C++
+- 💞️ I’m looking to collaborate on Ai 
 - 📫 How to reach me, steve.defendre12@gmail.com 
