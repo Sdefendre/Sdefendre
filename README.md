@@ -29,8 +29,6 @@ I build practical web apps and automation tools while completing my Computer Inf
 1. DefendreSolutions.com  
 2. BraidsbyRose.com 
 
-> Tip: Pin 1 or 2 repos on your profile as your "best of semester" projects.
-
 ---
 
 ## How to contact
