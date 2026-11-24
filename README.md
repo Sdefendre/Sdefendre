@@ -10,7 +10,7 @@ A free, MIT-licensed agent skill that teaches coding agents to build iOS apps th
 
 ### [FreeVoiceTranscribe](https://github.com/Sdefendre/freevoicetranscribe)
 
-Private, local hold-to-talk dictation for Apple Silicon Macs. Hold a global hotkey, speak, and release to insert the transcript into the focused field, using macOS Accessibility APIs and on-device Whisper through MLX. MIT licensed. A Developer ID–signed, notarized download is not available yet; the repo documents how to run it from source.
+Private, local hold-to-talk dictation for Apple Silicon Macs. Hold a global hotkey, speak, and release to insert the transcript into the focused field, using macOS Accessibility APIs and on-device Whisper through MLX. Free, MIT-licensed open-source software, run from source. Site: [sdefendre.github.io/freevoicetranscribe](https://sdefendre.github.io/freevoicetranscribe/).
 
 ### [LingBot Spatial](https://github.com/Sdefendre/lingbot-vision-pro)
 
