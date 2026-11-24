@@ -20,14 +20,14 @@ A visionOS demo that brings LingBot-Map streaming 3D reconstruction into Apple V
 
 A street-level exploration and driving game of Fall River, and a second bounded New Bedford map, built from OpenStreetMap extracts. A native Godot 4 port lives alongside the earlier browser version.
 
+### [WealthWise](https://github.com/Sdefendre/Wealthwise)
+
+A Next.js money dashboard. Import a CSV or PDF bank statement, chart the rows, or start from the bundled sample. No Plaid and no live bank login. MIT licensed. Site: [sdefendre.github.io/Wealthwise](https://sdefendre.github.io/Wealthwise/).
+
 ## Also public
 
 - [Traces](https://github.com/Sdefendre/traces-app) — a local-first knowledge workspace: Markdown notes on disk, a 3D wiki-link graph, and a multi-provider AI assistant, built with Electron, Next.js, and React Three Fiber. Site: [sdefendre.github.io/traces-app](https://sdefendre.github.io/traces-app/).
 - [Portfolio](https://github.com/Sdefendre/steve-defendre-portfolio) — personal site for selected work and contact, at [steve-defendre-portfolio.vercel.app](https://steve-defendre-portfolio.vercel.app).
-
-## Coursework
-
-Public classwork from Bristol Community College and UMass Boston is in the `cs110-*` repositories and earlier Java projects.
 
 ## Contact
 
