@@ -20,6 +20,10 @@ A visionOS demo that brings LingBot-Map streaming 3D reconstruction into Apple V
 
 A street-level exploration and driving game of Fall River, and a second bounded New Bedford map, built from OpenStreetMap extracts. A native Godot 4 port lives alongside the earlier browser version.
 
+### [UMB Campus 3D](https://github.com/Sdefendre/umb-campus-3d)
+
+A phone-first 3D wayfinding app for the UMass Boston campus. Load a class schedule (.ics, PDF, or pasted text) and follow a glowing walking route to the right building door, with a "leave in N minutes" countdown for your next class and a step-free route option. Parsing and routing run entirely on your device. Built with three.js and OpenStreetMap data as an installable PWA. Site: [sdefendre.github.io/umb-campus-3d](https://sdefendre.github.io/umb-campus-3d/).
+
 ### [WealthWise](https://github.com/Sdefendre/Wealthwise)
 
 A Next.js money dashboard. Import a CSV or PDF bank statement, chart the rows, or start from the bundled sample. No Plaid and no live bank login. MIT licensed. Site: [sdefendre.github.io/Wealthwise](https://sdefendre.github.io/Wealthwise/).
