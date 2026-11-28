@@ -1,6 +1,6 @@
 # Steve Defendre
 
-I build local-first Mac, visionOS, and on-device AI software. I'm a Computer Science student at UMass Boston, and I ship products through [Defendre Solutions](https://defendresolutions.com).
+I build local-first Mac, visionOS, and on-device AI software. I'm an Army veteran and Computer Science student at UMass Boston, and I ship products through [Defendre Solutions](https://defendresolutions.com).
 
 ## Products
 
@@ -32,6 +32,14 @@ A Next.js money dashboard. Import a CSV or PDF bank statement, chart the rows, o
 
 - [Traces](https://github.com/Sdefendre/traces-app) — a local-first knowledge workspace: Markdown notes on disk, a 3D wiki-link graph, and a multi-provider AI assistant, built with Electron, Next.js, and React Three Fiber. Site: [sdefendre.github.io/traces-app](https://sdefendre.github.io/traces-app/).
 - [Portfolio](https://github.com/Sdefendre/steve-defendre-portfolio) — personal site for selected work and contact, at [steve-defendre-portfolio.vercel.app](https://steve-defendre-portfolio.vercel.app).
+
+## Coursework
+
+Selected projects from CS110 Introduction to Computing at UMass Boston:
+
+- [RSA Cryptosystem](https://github.com/Sdefendre/cs110-assignment-4-rsa-cryptosystem): key generation, encryption and decryption from scratch in Python.
+- [Atomic Nature of Matter](https://github.com/Sdefendre/cs110-assignment-5-atomic-nature-of-matter): estimates Avogadro's number by finding and tracking beads in microscope images with depth-first search.
+- [Mozart Waltz Generator](https://github.com/Sdefendre/cs110-assignment-3-mozart-waltz-generator): composes a random waltz with Mozart's musical dice game and renders it to audio.
 
 ## Contact
 
